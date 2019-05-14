@@ -1,2 +1,3 @@
-# HTMLHomework
-In this assignment, you will build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page.
+# Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
+
+For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting weather data.
